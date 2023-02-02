@@ -1,5 +1,5 @@
 ## Alaslan Odyssey -Bootstrap
-This is not a real event, it's a practice exercise to showcase the capabilities of Bootstrap.<br/>
+This is not a real event, it's an exercise to showcase the capabilities of Bootstrap.<br/>
 # https://alaskan-odyssey.vercel.app/
 
               
