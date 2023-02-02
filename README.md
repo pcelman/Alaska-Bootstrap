@@ -1,4 +1,4 @@
-# Conference-Bootstrap
+# Alaslan Odyssey -Bootstrap
 This is not a real event, it's a practice exercise to showcase the capabilities of Bootstrap.
               
               https://alaskan-odyssey.vercel.app/
