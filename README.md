@@ -1,6 +1,6 @@
 ## Alaslan Odyssey -Bootstrap
 This is not a real event, it's an exercise to showcase the capabilities of Bootstrap.<br/>
-# https://alaskan-odyssey.vercel.app/
+[Visit the webpage](https://alaskan-odyssey.vercel.app/)
 
               
 
