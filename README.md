@@ -1,4 +1,4 @@
-## Alaslan Odyssey -Bootstrap
+## Alaskan Odyssey -Bootstrap
 This is not a real event, it's an exercise to showcase the capabilities of Bootstrap.<br/>
 [Visit the webpage](https://alaskan-odyssey.vercel.app/)
 
